@@ -1,0 +1,10 @@
+server:
+  port: 9991
+spring:
+  application:
+    name: cxf-demo
+  redis:
+    host: 106.13.224.xxx
+    port: 6379
+    password: yourpassword
+
